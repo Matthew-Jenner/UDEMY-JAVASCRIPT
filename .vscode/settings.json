@@ -1,8 +1,0 @@
-{
-    "prettier.endOfLine": "auto",
-    "prettier.proseWrap": "always",
-    "prettier.singleAttributePerLine": true,
-    "prettier.withNodeModules": true,
-    "prettier.vueIndentScriptAndStyle": true,
-    "prettier.useTabs": true
-}
